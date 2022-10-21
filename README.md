@@ -8,7 +8,7 @@
 <h1 Background="black">CONTACT</h1>
 <a href="mailto:rajputankit2664@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="70" hieght="70">
  <h1>FUN FACT</h1>
- <p>while(alive){:<br>       eat()<br>sleep()<br>code()<br>repeat()</p>
+ <p>while(alive){<br><hr>eat()<br>sleep()<br>code()<br>repeat()</p>
 
 
 
