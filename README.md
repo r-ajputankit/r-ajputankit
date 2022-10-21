@@ -1,5 +1,5 @@
 
-<h1  align="center">While(!(succeed = try())</h1>
+<h1  align="center" font="Arial Black" >While(!(succeed = try())</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-ajputankit&label=Profile%20views&color=0e75b6&style=flat" alt="r-ajputankit" /> </p>
 <h1>LEARNIING<h1>
