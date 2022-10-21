@@ -1,4 +1,4 @@
-<img  align="center" src=""C:\Users\Ankit Rajput\Desktop\img.png""  width="600" hieght="50">
+<img  align="center" src="C:\Users\Ankit Rajput\Desktop\img.png"  width="600" hieght="50">
 <h1  align="center">A PASSIONATE CODER</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrish2664&label=Profile%20views&color=0e75b6&style=flat" alt="amrish2664" /> </p>
