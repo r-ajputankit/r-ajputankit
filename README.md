@@ -1,3 +1,4 @@
+<img  align="center" src="coder.jpg"  width="600" hieght="50">
 <h1  align="center">Alw</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrish2664&label=Profile%20views&color=0e75b6&style=flat" alt="amrish2664" /> </p>
