@@ -24,8 +24,8 @@
 <a href="https://www.hackerrank.com/ap21110020059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap21110020059" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrish2664&show_icons=true&locale=en&layout=compact" alt="amrish2664" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-ajputankit&show_icons=true&locale=en&layout=compact" alt="r-ajputankit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrish2664&show_icons=true&locale=en" alt="amrish2664" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-ajputankit&show_icons=true&locale=en" alt="amrish2664" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrish2664&" alt="amrish2664" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-ajputankit&" alt="amrish2664" /></p>
