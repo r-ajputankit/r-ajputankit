@@ -6,10 +6,9 @@
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p>
 <br>
 <h1 Background="black">CONTACT</h1>
-<a href="mailto:amrish2664@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="70" hieght="70">
+<a href="mailto:rajputankit2664@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="70" hieght="70">
  <h1>FUN FACT</h1>
-
- <p>Fun fact *Doing Survival Engineering*</p>
+ <p>while(alive){:<br>       eat()<br>sleep()<br>code()<br>repeat()</p>
 
 
 
