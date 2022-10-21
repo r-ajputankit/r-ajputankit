@@ -1,4 +1,4 @@
-<img  align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnworthy.net%2Fhighest-paid-programming-languages-in-2019%2F&psig=AOvVaw26yNl0SfcHYxLVFlvBbqbr&ust=1666464682419000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCdnPf-8foCFQAAAAAdAAAAABAN"  width="600" hieght="50">
+<img  align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitaltreed.com%2Finfluencer%2Ftop-10-programming-languages-to-learn-in-2021%2F&psig=AOvVaw26yNl0SfcHYxLVFlvBbqbr&ust=1666464682419000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCdnPf-8foCFQAAAAAdAAAAABAW"  width="600" hieght="50">
 <h1  align="center">A PASSIONATE CODER</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrish2664&label=Profile%20views&color=0e75b6&style=flat" alt="amrish2664" /> </p>
