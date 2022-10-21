@@ -1,11 +1,9 @@
 
 <h1  align="center">While(!(succeed = try())</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrish2664&label=Profile%20views&color=0e75b6&style=flat" alt="amrish2664" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r-ajputankit&label=Profile%20views&color=0e75b6&style=flat" alt="r-ajputankit" /> </p>
 <h1>LEARNIING<h1>
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p>
-<h1>ASK ME ANYTHING</h1>
- <p> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/></p>
 <br>
 <h1 Background="black">CONTACT</h1>
 <a href="mailto:amrish2664@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="70" hieght="70">
