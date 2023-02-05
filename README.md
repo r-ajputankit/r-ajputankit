@@ -1,13 +1,9 @@
 
-<h1  align="center" font="Arial Black" >While(!(succeed = try())</h1>
-
 ### Hi, I am Ankit Rajput
 I am a second year B.Tech CSE student at SRM University AP.
 
 # Skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-## What I know :computer:
-- **Programming Languages (Data Structures & Algorithms)**
+- **Programming Languages (ata Structures & Algorithms)**
 	<center>
 		<table>
 			<tbody>
@@ -29,7 +25,7 @@ I am a second year B.Tech CSE student at SRM University AP.
 		</table>
 	</center>
 
- **Frontend Development**
+- **Frontend Development**
 	<center>
 		<table>
 			<tbody>
@@ -46,27 +42,6 @@ I am a second year B.Tech CSE student at SRM University AP.
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-					<td align="center">
-						<span><strong>Typescript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
-					<td  align="center">
-						<span><strong>Redux</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-					</td>
-					<td align="center">
-						<span><strong>Material UI</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-					</td>
-
 				</tr>
 			</tbody>
 		</table>
