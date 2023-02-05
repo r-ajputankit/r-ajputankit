@@ -1,5 +1,4 @@
-
-### Hi, I am Ankit Rajput
+# Welcome to my github!
 I am a second year B.Tech CSE student at SRM University AP.
 
 # Skills:
