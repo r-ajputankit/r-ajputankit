@@ -30,20 +30,17 @@ I am a second year B.Tech CSE student at SRM University AP.
 			<tbody>
 				<tr>
 					<td align="center">
-						<span><strong>HTML</strong></span><br/>
+						<span><strong></strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 					</td>
 					<td align="center">
-						<span><strong>CSS</strong></span><br/>
+						<span><strong></strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
-	
-
-
 
 
 
