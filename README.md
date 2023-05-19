@@ -2,7 +2,7 @@
 I am a second year B.Tech CSE student at SRM University AP.
 
 # Skills:
-- **Programming Languages (ata Structures & Algorithms)**
+- **Programming Languages**
 	<center>
 		<table>
 			<tbody>
@@ -36,10 +36,6 @@ I am a second year B.Tech CSE student at SRM University AP.
 					<td align="center">
 						<span><strong>CSS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
 				</tr>
 			</tbody>
