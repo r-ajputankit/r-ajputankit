@@ -1,5 +1,5 @@
 # Welcome to my github!
-I am a second year B.Tech CSE student at SRM University AP.
+As a BTech Computer Science student, I am driven by an insatiable curiosity for the ever-evolving world of technology. With a passion for innovation and a solid foundation in computer science principles, I am committed to shaping the future through cutting-edge solutions and software engineering. My journey in computer science has equipped me with a diverse skill set. I thrive on challenges and view them as opportunities for growth. I believe that technology should simplify lives and make the world a better place, and I'm eager to contribute to this mission.
 
 # Skills:
 - **Programming Languages**
