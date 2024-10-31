@@ -20,7 +20,7 @@ I'm a data scientist passionate about turning data into impactful insights. I lo
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm a fourth-year B.Tech CSE student at SRM University AP;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m enhancing my problem solving skills on [leetcode](https://leetcode.com/GKassym) and [hackerrank](https://www.hackerrank.com/profile/AP21110010918);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m enhancing my problem solving skills on [leetcode](https://leetcode.com/u/ankit_rajput01/) and [hackerrank](https://www.hackerrank.com/profile/AP21110010918);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: rajputankit2664@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; Find my [Resume](https://drive.google.com/file/d/1Add2yd1dHgUB4f5FM_QJ1GcIiSDr7K1l/view?usp=sharing).
 
