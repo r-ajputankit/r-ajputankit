@@ -14,7 +14,7 @@
 I'm a data scientist passionate about turning data into impactful insights. I love exploring data, solving problems, and communicating results to drive meaningful change.
  I believe in the power of data to transform businesses and improve lives, which is why I'm dedicated to making a real impact through data-driven solutions.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="392" height="308" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="350" height="300" />
   
 
 **Talking about Personal Stuffs:**
