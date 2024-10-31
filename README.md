@@ -25,7 +25,30 @@ I'm a data scientist passionate about turning data into impactful insights. I lo
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: rajputankit2664@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; Find my [Resume](https://gkassym.netlify.app/Resume.pdf).
 
-</br>
+</br></br></br>
+
+<h2>Skills</h2>
+<table>
+    <tr>
+        <td>Programming Languages</td>
+        <td><img src="https://skillicons.dev/icons?i=python,r,mysql,java,c,javascript,html,css" /></td>
+    </tr>
+    <tr>
+        <td>Frameworks & Libraries</td>
+        <td><img src="https://skillicons.dev/icons?i=mysql,flask,bootstrap"><br></td>
+    </tr>
+    <tr>
+        <td>Tools</td>
+        <td><img src="https://skillicons.dev/icons?i=vscode,github,git"></td>
+    </tr>
+    <tr>
+        <td>Database Services</td>
+        <td><img src="https://skillicons.dev/icons?i=mysql,mongodb"></td>
+    </tr>
+</table>
+
+<br/>
+<hr/>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
