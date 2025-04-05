@@ -53,7 +53,12 @@ I'm a data scientist passionate about turning data into impactful insights. I lo
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+- working on Skin lesion detection using single-shot detector (SSD)
+- got 92.4% mAP on the test data.
+- other planes:
+     - improve the mAP and other Evaluation matrices
+     - integrate it with other model (YOLOv12) to see if it can be further improved.
+
 ```
 
 <!--END_SECTION:waka-->
